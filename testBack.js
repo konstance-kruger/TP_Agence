@@ -79,7 +79,7 @@ try {
     console.error(e);
 }
 */
-
+/* 
 try { 
     const records = await agentById('0f2cuw8yasfxpln');
     console.log(JSON.stringify(records, null, 2));
@@ -130,3 +130,4 @@ try {
 } catch (e) {
     console.error(e);
 }
+*/
